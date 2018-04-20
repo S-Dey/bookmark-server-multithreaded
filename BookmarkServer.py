@@ -4,7 +4,7 @@
 
 import http.server
 import requests
-import os.environ
+import os
 from urllib.parse import unquote, parse_qs
 
 memory = {}
